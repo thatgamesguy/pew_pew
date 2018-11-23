@@ -1,0 +1,5 @@
+This file informs you of which version of Unity was used to create the asset. It is updated whenever the assets Unity version is changed. 
+
+Package updated to use Unity version 5.6.0f3. 
+
+If possible please use this version of Unity when editing the asset.
