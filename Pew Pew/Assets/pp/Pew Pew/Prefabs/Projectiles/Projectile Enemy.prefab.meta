@@ -1,8 +1,9 @@
 fileFormatVersion: 2
 guid: 2de795dbfa312094293baabb14b930cd
-timeCreated: 1475662148
-licenseType: Free
-NativeFormatImporter:
+labels:
+- Projectiles
+PrefabImporter:
+  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,8 +1,9 @@
 fileFormatVersion: 2
 guid: e08c39d42a5230344b2767a07e915c86
-timeCreated: 1478177404
-licenseType: Free
-NativeFormatImporter:
+labels:
+- PowerUp
+PrefabImporter:
+  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 

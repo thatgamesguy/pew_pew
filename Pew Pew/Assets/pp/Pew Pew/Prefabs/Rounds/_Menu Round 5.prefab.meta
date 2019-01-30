@@ -1,8 +1,11 @@
 fileFormatVersion: 2
 guid: f5f377d4ce8641644b5e01a4c5f9bffc
-timeCreated: 1476899036
-licenseType: Free
-NativeFormatImporter:
+labels:
+- Enemies
+- Enemy
+- Neon
+PrefabImporter:
+  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,8 +1,10 @@
 fileFormatVersion: 2
 guid: 18271ff6b30873d4d98848d5718bde2b
-timeCreated: 1478603065
-licenseType: Free
-NativeFormatImporter:
+labels:
+- Bonus
+- Challenge
+PrefabImporter:
+  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 

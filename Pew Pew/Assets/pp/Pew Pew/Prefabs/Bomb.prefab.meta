@@ -1,8 +1,9 @@
 fileFormatVersion: 2
 guid: 2c00324fd5c3a954c9444e6d0c182d10
-timeCreated: 1477927359
-licenseType: Free
-NativeFormatImporter:
+labels:
+- Retro
+PrefabImporter:
+  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
